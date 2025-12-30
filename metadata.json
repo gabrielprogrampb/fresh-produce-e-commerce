@@ -1,0 +1,5 @@
+{
+  "name": "Fresh Produce E-commerce",
+  "description": "A modern e-commerce platform for a fruit and vegetable distributor, featuring a product catalog, shopping cart, and a delivery/pickup booking system during checkout. It also includes an admin dashboard to manage orders and view schedules.",
+  "requestFramePermissions": []
+}
